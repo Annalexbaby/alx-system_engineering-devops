@@ -49,3 +49,4 @@ backend ehoneah-backend
         balance roundrobin
         server 46024-web-01 35.168.2.197:80 check
         server 46024-web-02 52.3.240.46:80 check
+        server 46024-lb-01 3.85.33.203
