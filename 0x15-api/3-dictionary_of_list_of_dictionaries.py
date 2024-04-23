@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+"""
+Created on Tuesdy April 23 02:15:15 2024
+@author: Oluwatobi Orojo
+"""
 from json import dump
 from requests import get
 
