@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+"""
+Created on Tue Apr 23 00:55:20 2024
+@author: Oluwatobi Orojo
+"""
 from requests import get
 from sys import argv
 

@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+"""
+Created on Mon Sep 14 16:22:14 2020
+@author: Oluwaseun Adesiyan
+"""
 from json import dump
 from requests import get
 from sys import argv
